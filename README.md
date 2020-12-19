@@ -1,4 +1,4 @@
-# st
+# instantOS st
 
 this st fork is the default terminal emulator being used in instantOS
 It is nothing special, it really just gets the job done which is what a default terminal should do. 
